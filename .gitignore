@@ -1,0 +1,7 @@
+# User-specific stuff:
+.idea/
+*.log
+*.swp
+node_modules/
+.npm
+package-lock.json
